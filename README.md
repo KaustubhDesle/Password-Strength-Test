@@ -55,7 +55,7 @@ Thus, the module:
 
 Usage
 -----
-After you've included it into your project, using the module is
+After I've included it into my project, using the module is
 straightforward:
 
 ### Server-side ###
